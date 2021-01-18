@@ -20,6 +20,7 @@ Model terpilih adalah model regresi linear dengan terdapat 3 buah variabel yang 
 1. Kebidanan
 2. Imunisasi
 3. Pengeluaran untuk makanan
+
 Ketiga variabel independen memiliki hubungan terbalik dengan prevalensi gizi buruk sehingga penambahan jumlah variabel tersebut akan menurunkan tingkat prevalensi gizi buruk.
 
 Dengan menggunakan PCA, rekomendasi kebijakan untuk 10 provinsi dengan kasus gizi buruk tertinggi:
