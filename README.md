@@ -21,10 +21,11 @@ Model terpilih adalah model regresi linear dengan terdapat 3 buah variabel yang 
 2. Imunisasi
 3. Pengeluaran untuk makanan
 Ketiga variabel independen memiliki hubungan terbalik dengan prevalensi gizi buruk sehingga penambahan jumlah variabel tersebut akan menurunkan tingkat prevalensi gizi buruk.
+
 Dengan menggunakan PCA, rekomendasi kebijakan untuk 10 provinsi dengan kasus gizi buruk tertinggi:
 1. 4 Provinsi dengan program peningkatan jumlah bidan: Sulawesi Utara, Kalimantan Barat, Gorontalo, Sulawesi Barat
 2. 5 Provinsi dengan program peningkatan jumlah imunisasi: Aceh, Sumatera Utara, Maluku Utara, Maluku, Sulawesi Tenggara
 3. 6 Provinsi dengan program bantuan pengeluaran untuk makanan: Maluku Utara, Maluku, Sulawesi Tenggara, Nusa Tenggara Timur, Sulawesi Barat, Gorontalo
 
 ## Credit
-Credits for this project go to [Helmi](https://www.linkedin.com/in/helmi-lahuddin-ghozali/?originalSubdomain=id), [Fathia](https://www.instagram.com/fathiathaya/), and [Aurelia](https://www.linkedin.com/in/aureliagracee/?originalSubdomain=id)
+Credits for this project go to the team, consisting of [me](https://www.linkedin.com/in/razikaalmira/), [Helmi](https://www.linkedin.com/in/helmi-lahuddin-ghozali/?originalSubdomain=id), [Fathia](https://www.instagram.com/fathiathaya/), and [Aurelia](https://www.linkedin.com/in/aureliagracee/?originalSubdomain=id)
