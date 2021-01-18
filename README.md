@@ -4,7 +4,7 @@
 - Kasus gizi buruk di Indonesia masih tergolong tinggi dengan jumlah penderita gizi buruk di tahun 2019 mencapai 30 ribu orang dengan rasio 1:10 penduduk. 
 - Masalah stunting pada balita di Indonesia berkisar 27.5% berdasarkan pemantauan status gizi di tahun 2016 dengan prevalensi pemberian ASI eksklusif pada bayi 0-6 bulan yang masih rendah pada angka 38%. 
 - Penelitian ini bertujuan untuk mengetahui variabel yang berpengaruh pada kasus balita gizi buruk di seluruh provinsi di Indonesia dan memberikan saran kepada pemerintah untuk memberikan intervensi yang dapat menekan jumlah kasus gizi buruk di Indonesia.
-- Referensi yang digunakan untuk penelitian ini adalah berdasarkan paper berjudul Pemodelan Jumlah Balita Gizi Buruk di Jawa Timur dengan Geographically weighted Poisson Regression di tahun 2012 oleh Amelia R. Purbadi.
+- Referensi yang digunakan untuk penelitian ini adalah berdasarkan paper berjudul [Pemodelan Jumlah Balita Gizi Buruk di Jawa Timur dengan Geographically weighted Poisson Regression](https://www.neliti.com/publications/15917/pemodelan-jumlah-balita-gizi-buruk-di-jawa-timur-dengan-geographically-weighted) di tahun 2012 oleh Amelia R. Purbadi.
 
 ## Struktur Data
 Data yang digunakan:
