@@ -29,4 +29,4 @@ Dengan menggunakan PCA, rekomendasi kebijakan untuk 10 provinsi dengan kasus giz
 3. 6 Provinsi dengan program bantuan pengeluaran untuk makanan: Maluku Utara, Maluku, Sulawesi Tenggara, Nusa Tenggara Timur, Sulawesi Barat, Gorontalo
 
 ## Credit
-Credits for this project go to the team, consisting of [me](https://www.linkedin.com/in/razikaalmira/), [Helmi](https://www.linkedin.com/in/helmi-lahuddin-ghozali/?originalSubdomain=id), [Fathia](https://www.instagram.com/fathiathaya/), and [Aurelia](https://www.linkedin.com/in/aureliagracee/?originalSubdomain=id)
+Credits for this project go to the team, consisting of [me](https://www.linkedin.com/in/razikaalmira/), [Helmi](https://www.linkedin.com/in/helmi-lahuddin-ghozali/?originalSubdomain=id), [Fathia](https://www.linkedin.com/in/fathia-athaya-hanief/), and [Aurelia](https://www.linkedin.com/in/aureliagracee/?originalSubdomain=id)
